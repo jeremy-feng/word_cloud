@@ -2,10 +2,13 @@
 
 [![App](https://img.shields.io/badge/Streamlit-App-brightgreen.svg?style=flat-square)](https://jeremy-feng-word-cloud-app-br6pxe.streamlit.app/) 
 
+[演示地址](https://jeremy-feng-word-cloud-app-br6pxe.streamlit.app/)
+
 上传文本文件，在线生成词云图。
 
 :star:：自定义字体。
 
 :star:：自定义背景轮廓。
 
-![image-20221106195259672](README-image/image-20221106195259672.png)
+[![image-20221106200330394](README-image/image-20221106200330394.png)](https://jeremy-feng-word-cloud-app-br6pxe.streamlit.app/)
+
