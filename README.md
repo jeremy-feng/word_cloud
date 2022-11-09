@@ -10,5 +10,5 @@
 
 :star:：自定义背景轮廓。
 
-[![image-20221106200330394](README-image/image-20221106200330394.png)](https://jeremy-feng-word-cloud-app-br6pxe.streamlit.app/)
+[![image-20221109152144739](README-image/image-20221109152144739.png)](https://jeremy-feng-word-cloud-app-br6pxe.streamlit.app/)
 
