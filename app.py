@@ -21,7 +21,7 @@ else:
 
 # 颜色colormap
 colormap = st.sidebar.text_input("请输入颜色主题", value="tab20c")
-st.sidebar.markdown("默认编码格式为`tab20c`，[支持的颜色主题](https://matplotlib.org/stable/tutorials/colors/colormaps.html#sequential)")
+st.sidebar.markdown("默认颜色主题为`tab20c`，[支持的颜色主题](https://matplotlib.org/stable/tutorials/colors/colormaps.html#sequential)")
 
 # 轮廓图
 outline_file = st.sidebar.file_uploader("自定义轮廓图", type=['png', 'jpg', 'jpeg'])
