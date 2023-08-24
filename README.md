@@ -11,7 +11,3 @@
 :star:：自定义背景轮廓。
 
 [![image-20221109152144739](README-image/image-20221109152144739.png)](https://jeremy-feng-word-cloud-app-br6pxe.streamlit.app/)
-
-> **Note**
-> 
-> For an early trial, you can install with `pip install pygwalker --upgrade` to keep your version up to date with the latest release or even `pip install pygwaler --upgrade --pre` to obtain latest features and bug-fixes.
